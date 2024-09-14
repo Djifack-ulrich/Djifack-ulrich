@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a passionate about data science in particular and AI in general.<br><br>I'm looking for projects to get involved in.<br><br>I'm looking for a Phd in Artificial Intelligence applied in the field of health or finance.
-
+I'm a passionate about data science in particular and AI in general.<br><br>I'm looking for projects to get involved in.<br><br>I'm looking for a Phd in Artificial Intelligence and Data Science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-djifack-818942224/) 
